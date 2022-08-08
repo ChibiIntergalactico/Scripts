@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRUs/Banana/main/DragonBloxGuiRedo.lua"))()
+ 
+ 
+loadstring(game:HttpGet(("https://aizen.ml/uploads/dbu.lua")))()
